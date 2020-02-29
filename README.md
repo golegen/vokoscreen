@@ -10,7 +10,6 @@ https://www.transifex.com/vkohaupt/vokoscreen/
 **Homepage**  
 http://linuxecke.volkoh.de/vokoscreen/vokoscreen.html
 
-**Description and Screenshots**  
+**Description**  
 vokoscreen is an easy to use screencast creator to record educational videos, live recordings of browser, installation, videoconferences, etc.
 
-![Picture](http://linuxecke.volkoh.de/vokoscreen/vokoscreen-picture-screen.png)
